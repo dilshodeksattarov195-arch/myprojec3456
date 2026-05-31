@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendender",
+        "uuid": 5498496,
+        "checksum": "ikfp7w"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
